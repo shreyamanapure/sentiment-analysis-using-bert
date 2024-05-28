@@ -1,1 +1,3 @@
 # sentiment-analysis-using-bert
+Sentiment Analysis using BERT involves leveraging the Bidirectional Encoder Representations from Transformers (BERT) model to classify text based on sentiment. BERT, developed by Google, is a pre-trained transformer model that captures context from both directions (left-to-right and right-to-left) in a sentence. By fine-tuning BERT on a labeled dataset of sentiments (e.g., positive, negative, neutral), the model can effectively understand and predict the emotional tone of textual data, making it powerful for applications such as social media monitoring, customer feedback analysis, and automated support systems.
+
